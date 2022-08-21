@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "declaration": true,
+        "declarationDir": "dist/",
+        "outDir": "dist/",
+        "noErrorTruncation": true,
+        "module": "commonjs",
+        "target": "es5",
+        "lib": ["es2019", "dom"],
+        "sourceMap": true,
+        "declarationMap": true,
+        "jsx": "react",
+        "moduleResolution": "node",
+        "downlevelIteration": true,
+        "forceConsistentCasingInFileNames": true,
+        "alwaysStrict": true,
+        "strictBindCallApply": true,
+        "strictFunctionTypes": true,
+        "noImplicitThis": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "resolveJsonModule": true
+    },
+    "exclude": ["node_modules"],
+    "include": ["src", "custom.d.ts"]
+}
