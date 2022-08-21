@@ -1,0 +1,27 @@
+{
+  "name": "with-class",
+  "version": "0.0.1",
+  "description": "Class-based controllers for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/markferrer/with-class.git"
+  },
+  "keywords": [
+    "webapp",
+    "http",
+    "application",
+    "framework",
+    "router",
+    "node"
+  ],
+  "author": "Mark Ferrer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markferrer/with-class/issues"
+  },
+  "homepage": "https://github.com/markferrer/with-class#readme"
+}
