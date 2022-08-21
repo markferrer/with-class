@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/markferrer/with-class/issues"
   },
-  "homepage": "https://github.com/markferrer/with-class#readme"
+  "homepage": "https://github.com/markferrer/with-class#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
